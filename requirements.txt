@@ -1,13 +1,10 @@
-Package                 Version
------------------------ -------
-bottle                  0.12.19
-bottle-sqlite           0.2.0
-click                   8.0.2
-dlib                    19.22.1
-face-recognition        1.3.0
-face-recognition-models 0.3.0
-numpy                   1.21.2
-Pillow                  8.3.2
-pip                     21.1.2
-setuptools              57.0.0
-wheel                   0.36.2
+bottle==0.12.19
+bottle-sqlite==0.2.0
+click==8.0.3
+cmake==3.22.1
+colorama==0.4.4
+dlib==19.22.1
+face-recognition==1.3.0
+face-recognition-models==0.3.0
+numpy==1.21.4
+Pillow==8.4.0
